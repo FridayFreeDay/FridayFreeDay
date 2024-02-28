@@ -2,13 +2,13 @@
 Я Python Backend Developer - задавайте вопросы...
 <br>
 <br>
+🌍 Живу в Москве
+<br>
 🔭 На данный момент работаю над [self accountant](https://github.com/FridayFreeDay/self-accountant)
 <br>
-🌍  Живу в Москве
+🖥️ Здесь можно посмотреть [мои проекты](http://github.com/FridayFreeDay?tab=repositories)
 <br>
-🖥️  Здесь можно посмотреть [мои проекты](http://github.com/FridayFreeDay?tab=repositories)
-<br>
-✉️  Вы можете связаться со мной по почте [ilyakor0207200@mail.ru](mailto:ilyakor0207200@mail.ru) или [Telegram](https://t.me/elementalKorolev)
+✉️ Вы можете связаться со мной по почте [ilyakor0207200@mail.ru](mailto:ilyakor0207200@mail.ru) или [Telegram](https://t.me/elementalKorolev)
 <br>
 
 # 💻 Skills:

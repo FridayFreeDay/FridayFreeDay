@@ -12,7 +12,7 @@
 <br>
 
 # 💻 Skills:
-[](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 # 📊 GitHub Статистика:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FridayFreeDay&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 

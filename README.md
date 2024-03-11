@@ -1,9 +1,9 @@
 # Мне 19 лет, я Python Backend Developer - задавайте вопросы...
 <br>
 <br>
-## Живу в Москве
+# Живу в Москве
 <br>
-## Вы можете связаться со мной по почте [ilyakor0207200@mail.ru](mailto:ilyakor0207200@mail.ru) или [Telegram](https://t.me/elementalKorolev)
+# Вы можете связаться со мной по почте [ilyakor0207200@mail.ru](mailto:ilyakor0207200@mail.ru) или [Telegram](https://t.me/elementalKorolev)
 <br>
 
 # 💻 Skills:
